@@ -6,4 +6,4 @@ The project report holds all the information about the project. It lays out the 
 
 The code for the PIC is in the main.c file.
 
-A blog post written about this project can be found [here](jbocinsky.github.io/SunshineAlarm/).
+A blog post written about this project can be found [here](https://jbocinsky.github.io/SunshineAlarm/ "James' Blog").
